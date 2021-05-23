@@ -14,7 +14,7 @@
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
 # Add a feed source
-sed -i '$a src-git xliuphy https://github.com/xliuphy/leanpakcages' feeds.conf.default
-sed -i '$a src-git helloworld https://github.com/fw876/helloworld' feeds.conf.default
-git clone https://github.com/sirpdboy/luci-theme-opentopd package/luci-theme-opentopd
-git clone https://github.com/garypang13/luci-theme-edge package/luci-theme-edge
+# sed -i '$a src-git xliuphy https://github.com/xliuphy/leanpakcages' feeds.conf.default
+# sed -i '$a src-git helloworld https://github.com/fw876/helloworld' feeds.conf.default
+# git clone https://github.com/sirpdboy/luci-theme-opentopd package/luci-theme-opentopd
+# git clone https://github.com/garypang13/luci-theme-edge package/luci-theme-edge
