@@ -15,3 +15,4 @@
 
 # Add a feed source
 sed -i '$a src-git xliuphy https://github.com/xliuphy/leanpakcages' feeds.conf.default
+git clone https://github.com/sirpdboy/luci-theme-opentopd package/luci-theme-opentopd
