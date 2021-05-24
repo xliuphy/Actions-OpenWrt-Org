@@ -18,6 +18,6 @@
 # sed -i '$a src-git helloworld https://github.com/fw876/helloworld' feeds.conf.default
 # git clone https://github.com/sirpdboy/luci-theme-opentopd package/luci-theme-opentopd
 # git clone https://github.com/garypang13/luci-theme-edge package/luci-theme-edge
-sed -i '$a src-git opentopd  https://github.com/sirpdboy/sirpdboy-package' feeds.conf.default
+# sed -i '$a src-git opentopd  https://github.com/sirpdboy/sirpdboy-package' feeds.conf.default
 sed -i '$a src-git helloworld https://github.com/fw876/helloworld' feeds.conf.default
 git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git  package/luci-app-jd-dailybonus
