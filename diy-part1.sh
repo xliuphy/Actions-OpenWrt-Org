@@ -24,4 +24,4 @@
 git clone https://github.com/xiaorouji/openwrt-passwall.git package/luci-app-passwall
 git clone https://github.com/sirpdboy/luci-theme-opentopd package/luci-theme-opentopd
 git clone https://github.com/sirpdboy/NetSpeedTest package/NetSpeedTest
-git clone https://github.com/xliuphy/leanpakcages.git package/lean
+git clone https://github.com/xliuphy/leanpakcages package/lean
