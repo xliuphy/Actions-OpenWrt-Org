@@ -20,4 +20,4 @@
 # git clone https://github.com/garypang13/luci-theme-edge package/luci-theme-edge
 sed -i '$a src-git opentopd  https://github.com/sirpdboy/sirpdboy-package' feeds.conf.default
 sed -i '$a src-git helloworld https://github.com/fw876/helloworld' feeds.conf.default
-sed -i '$a src-git lean https://github.com/coolsnowwolf/lede' feeds.conf.default
+sed -i '$a src-git jerrykuku https://github.com/jerrykuku/luci-app-jd-dailybonus' feeds.conf.default
